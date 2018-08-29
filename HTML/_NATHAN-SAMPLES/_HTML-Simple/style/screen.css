@@ -1,0 +1,28 @@
+/*general stuff*/
+
+body, html {
+	font: Georgia, serif 15px;
+	background-color: grey;
+	color: rgb(255,200,150);
+}
+
+h1 {
+	color: orange;
+}
+
+h2 {
+	font-family: Helvetica;
+	font-style: italic;
+	color: darkred;
+}
+
+
+/* this is a "class". It is a style you can define here and use over and over.*/
+
+.formatThis {
+	background-color: darkgreen;
+	height:100px;
+	width: 100%;
+	border: 2px solid black;
+}
+

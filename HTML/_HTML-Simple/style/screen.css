@@ -1,0 +1,38 @@
+/*general stuff*/
+
+body, html {
+<<<<<<< HEAD
+	font: Verdana, serif 15px;
+	background-color: light blue;
+	color: rgb(245,220,180);
+}
+
+h1 {
+	color: white;
+=======
+	font: Georgia, serif 15px;
+	background-color: black;
+	color: rgb(255,200,150);
+}
+
+h1 {
+	color: blue;
+>>>>>>> f6c28205bc40c98786e4100b1e5e961a20676c86
+}
+
+h2 {
+	font-family: Verdana;
+	font-style: italic;
+	color: darkred;
+}
+
+
+/* this is a "class". It is a style you can define here and use over and over.*/
+
+.formatThis {
+	background-color: darkgreen;Í
+	height:100px;
+	width: 100%;
+	border: 2px solid black;
+}
+
