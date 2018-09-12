@@ -9,16 +9,12 @@ body, html {
 
 h1 {
 	color: white;
-=======
+
 	font: Georgia, serif 15px;
 	background-color: black;
 	color: rgb(255,200,150);
 }
 
-h1 {
-	color: blue;
->>>>>>> f6c28205bc40c98786e4100b1e5e961a20676c86
-}
 
 h2 {
 	font-family: Verdana;
