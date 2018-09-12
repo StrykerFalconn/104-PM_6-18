@@ -1,0 +1,31 @@
+/*<--Here we go-->*/
+
+title {
+	text-transform: uppercase;
+	font-family: Arial;
+}
+
+body {
+	background-color: gray;
+}
+
+h1 {
+	color: white;
+	font-size: 50px;
+	font-family: Arial;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: darkred;
+	font-size: 32px;
+	font-family: Helvetica;
+}
+
+p {
+	font-size: 18px;
+}
+
+ul {
+	font-size: 20px;
+}
