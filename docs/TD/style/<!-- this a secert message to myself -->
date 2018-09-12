@@ -1,0 +1,67 @@
+<!-- this a secert message to myself -->
+<!-- this is the header -->
+<head>
+
+	<!-- css stylesheet (in the /style folder) -->
+	<link rel="stylesheet" href="style/screen.css">
+
+	<!-- title at the top of browser window -->
+	<title>My Title</title>
+
+</head>
+
+<!-- beginning of webpage text -->
+<h1>Andrew Is The Best</h1>
+
+<h2>contact</h2>
+
+<h2>Bio</h2>
+
+<p>paragraphs get entered like this</p>
+<p>Here is another one</p>
+
+
+<h2>Photo</h2>
+<p>Put a picture anywhere you want like this:</p>
+
+<!-- Point to the folder and filename of your folder 
+	like so -->
+<img src="images/photo.jpg" width="300px">
+
+<p>You could even wrap it in a link like this:</p>
+
+<!-- I'll break it down:
+	start the link tag here -->
+	<a href="index">
+
+		<!-- then the image goes inside -->
+		<img src="images/photo.jpg" width="300px">
+
+		<!-- then you close the tag like so -->
+	</a>
+
+	<p>And now you can click it!</p>
+
+	<h2>Listen</h2>
+
+	<h3>Links</h3>
+
+	<!-- This section uses the 
+	".formatThis" class (in the css file) -->
+	<div class="formatThis">
+
+		<p>
+
+		This is the 
+		<a href= "http://google.com">
+
+		way you make a link</a>. 
+		Anything inside of the tags is the link. </p>
+
+		<p>It can say 
+
+		<a href="http://google.com">AnYtHiNg yO</a>u want.
+
+		</p>
+<!-- This ends the .formatThis section -->
+	</div>
